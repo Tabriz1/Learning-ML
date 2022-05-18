@@ -3,13 +3,8 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me naghiyevtabriz@gmail.com
 
+**Welcome!**
 
 
-# [Customer Segmentation Automobile - Kaggle](https://www.kaggle.com/code/tabriznagiyev/customer-segmentation-automobile)
 
-## Project Overview
-
-
-![]()
-![]() 
 
